@@ -13,6 +13,12 @@ Learning GitHub Pull Request
 ### Change back to master branch
 - `git checkout master`
 ***
+### Merge branch
+- `git merge name of branch`
+***
 ### Delete a branch
 - `git branch -D name of branch`
+***
+### Push your branch to the remote repository
+- `git push -u origin feature_branch_name`
 ***
